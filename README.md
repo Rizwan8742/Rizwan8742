@@ -9,12 +9,16 @@ rizwanasgar0@gmail.com
 - ⚡ Fun fact: I love to pay attention to details:)
 
 
-<h3 align="left">A passionate Data Enthusiast from India</h3>
+<h3 align="left">&nbsp;&nbsp;A passionate Data Enthusiast from <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India</h3>
+ 
+<img src="https://user-images.githubusercontent.com/125373233/226691127-2401e222-4340-46a8-b3d0-046d1d61eb07.gif" alt="My Project GIF" width="350" height="200">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-rizwan-496b95240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizwan8742" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rizwan8742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rizwan8742" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rizwan8742" target="bla![1679417119101](https://user-images.githubusercontent.com/125373233/226690628-925ac17f-0a72-48c0-89af-2417c71755ee.gif)
+nk"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rizwan8742" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rizwanasgar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rizwanasgar/" height="30" width="40" /></a>
 </p>
 
